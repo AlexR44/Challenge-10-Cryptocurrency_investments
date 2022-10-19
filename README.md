@@ -1,6 +1,6 @@
 # Challenge-10: Cryptocurrency Performance
 
-![](https://www.nasdaq.com/sites/acquia.prod/files/styles/720x400/public/2021/05/07/cryptocurrency-Nuthawut-adobe.jpg?h=6acbff97&itok=kyPXtQ0N)
+![](https://media.beam.usnews.com/db/ae/47d566714fd6b1143c313ba9a685/cryptocurrencycoinvariety.jpg)
 
 The Jupyter notebook included clusters cryptocurrencies by their returns in the following different time periods:
 * 1 Day
